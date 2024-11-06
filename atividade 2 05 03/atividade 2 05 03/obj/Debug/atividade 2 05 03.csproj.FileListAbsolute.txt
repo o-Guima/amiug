@@ -1,0 +1,7 @@
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\bin\Debug\atividade 2 05 03.exe.config
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\bin\Debug\atividade 2 05 03.exe
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\bin\Debug\atividade 2 05 03.pdb
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\obj\Debug\atividade 2 05 03.csproj.AssemblyReference.cache
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\obj\Debug\atividade 2 05 03.csproj.CoreCompileInputs.cache
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\obj\Debug\atividade 2 05 03.exe
+C:\Users\João Guilherme\source\repos\atividade 2 05 03\atividade 2 05 03\obj\Debug\atividade 2 05 03.pdb
